@@ -1,0 +1,7 @@
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.exe.config
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\bin\Debug\TiposDeVariaveis.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\PROJETOS\TiposDeVariaveis\obj\Debug\TiposDeVariaveis.pdb
